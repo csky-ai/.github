@@ -3,6 +3,11 @@
 > Please explain what this PR does, otherwise delete this section
 
 
+## How to test:
+
+> Please explain what the reviewer should do to be able to test the PR
+
+
 
 > [!WARNING]
 > Do not delete this section.
